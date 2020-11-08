@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="931f1217-1f00-4312-8c99-a2df4889291a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jqfaI8uHkkWTG9yJslPinnyuoP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ProductSum" />
+      <recent name="$PROJECT_DIR$/PalindromeCheck" />
+      <recent name="$PROJECT_DIR$/NthFibonacciSeries" />
+      <recent name="$PROJECT_DIR$/NodeDepths" />
+      <recent name="$PROJECT_DIR$/FindThreeLargestNumbers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_ProductSum.TestProductSum.test_case">
+    <configuration name="Unittests for test_NodeDepths.TestNodeDepths.test_case" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CA-Training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_NodeDepths.TestNodeDepths.test_case&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_NthFibSeries.TestFib.test_case" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CA-Training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_NthFibSeries.TestFib.test_case&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_PalindromeCheck.TestPalindrome.test_case" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CA-Training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_PalindromeCheck.TestPalindrome.test_case&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_ProductSum.TestProductSum.test_case" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CA-Training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ProductSum.TestProductSum.test_case&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_FindThreeLargestNumbers.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="CA-Training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_FindThreeLargestNumbers.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_ProductSum.TestProductSum.test_case" />
+        <item itemvalue="Python tests.Unittests for test_PalindromeCheck.TestPalindrome.test_case" />
+        <item itemvalue="Python tests.Unittests for test_NthFibSeries.TestFib.test_case" />
+        <item itemvalue="Python tests.Unittests for test_NodeDepths.TestNodeDepths.test_case" />
+        <item itemvalue="Python tests.Unittests in test_FindThreeLargestNumbers.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="931f1217-1f00-4312-8c99-a2df4889291a" name="Default Changelist" comment="" />
+      <created>1604536604438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604536604438</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="352" key="GridCell.Tab.0.bottom" timestamp="1604808194460">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604808194460" />
+    <state width="1899" height="352" key="GridCell.Tab.0.bottom/0.23.1920.973@0.23.1920.973" timestamp="1604647388048" />
+    <state width="1899" height="352" key="GridCell.Tab.0.center" timestamp="1604808194459">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604808194459" />
+    <state width="1899" height="352" key="GridCell.Tab.0.center/0.23.1920.973@0.23.1920.973" timestamp="1604647388047" />
+    <state width="1899" height="352" key="GridCell.Tab.0.left" timestamp="1604808194458">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604808194458" />
+    <state width="1899" height="352" key="GridCell.Tab.0.left/0.23.1920.973@0.23.1920.973" timestamp="1604647388046" />
+    <state width="1899" height="352" key="GridCell.Tab.0.right" timestamp="1604808194460">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="352" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604808194460" />
+    <state width="1899" height="352" key="GridCell.Tab.0.right/0.23.1920.973@0.23.1920.973" timestamp="1604647388047" />
+  </component>
+</project>
