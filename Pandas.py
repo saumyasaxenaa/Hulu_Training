@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 df1 = pd.read_csv('/Users/saumyasaxena/Desktop/untitled folder/New/Pose1_new.csv')
 df2 = pd.read_csv('/Users/saumyasaxena/Desktop/untitled folder/New/Pose2_new.csv')
@@ -9,3 +10,9 @@ df3 = pd.read_csv('/Users/saumyasaxena/Desktop/untitled folder/New/Pose3_new.csv
 concat = pd.concat([df1,df2,df3])
 print(concat)
 concat.to_csv('Master.csv')
+
+a = np.array([[1,2,3],[5,6,7]])
+b = np.zeros((2,2))
+
+print(a)
+print(b)
